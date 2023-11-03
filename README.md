@@ -6,3 +6,5 @@ for future use? How can you manage and access the data stored in a structured da
 Learning to represent data in the form of tables in a Relational Database will help you answer these questions.
 we will learn to create, update, and retrieve data stored in the MySQL (RDBMS) database. 
 You will use the Structured Query Language (SQL) to perform various operations on the database.
+
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=blue) 
